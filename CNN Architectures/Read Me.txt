@@ -1,0 +1,7 @@
+**Read Me**
+--------------------------------------------------------------------
+        1. Codefiles (.ipynb files) for structures of some of the popular CNN architectures & Models
+        2. The popular architectures included are:
+                a. AlexNet (2012)
+                b. VGG19
+                
